@@ -1,0 +1,41 @@
+.jumbotron {
+	background-color: rgb(124,162,151);
+	color: rgb(220, 229, 227);
+}
+
+p.code {
+	background-color: rgb(127, 142, 161);
+	padding: 10px 10px 10px 30px;
+	color: white;
+}
+
+ul.code {
+	list-style: none;
+	background-color: rgb(127, 142, 161);
+	padding: 10px 10px 10px 20px;
+	color: white;
+	font-family: monospace;
+	overflow: scroll;
+}
+
+.backbar {
+    padding: 0;
+    position: relative;
+    top: -30px;
+    background-color: rgb(220,229,227);
+    color: rgb(171, 195, 189);
+    margin: 0;
+}
+
+.backbar h2 {
+	margin-top: 0px;
+}
+
+.backbar a:visited {
+	color: rgb(124,162,151);
+}
+
+.backbar a:hover {
+	color: rgb(54, 115, 98);
+	text-decoration: none;
+}
